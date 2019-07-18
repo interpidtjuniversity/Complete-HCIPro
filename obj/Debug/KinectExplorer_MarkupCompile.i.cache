@@ -1,0 +1,20 @@
+﻿KinectExplorer
+
+
+exe
+C#
+.cs
+I:\kinect example\KinectExplorer\obj\Debug\
+Microsoft.Samples.Kinect.KinectExplorer
+none
+false
+DEBUG;TRACE
+I:\kinect example\KinectExplorer\App.xaml
+4-1724877742
+4-669579904
+15-1336238210
+17-380022103
+KinectWindow.xaml;KinectWindowflatsupport.xaml;KinectWindowsitup.xaml;MainWindow.xaml;
+
+False
+
